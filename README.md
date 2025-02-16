@@ -15,15 +15,19 @@ Soy un apasionado del desarrollo de software con experiencia en tecnologías bac
   <a href="https://img.icons8.com/?size=100&id=9nLaR5KFGjN0&format=png&color=000000">
     <img src="https://img.icons8.com/?size=100&id=9nLaR5KFGjN0&format=png&color=000000" width="50" height="50"/>
   </a>
+  <a href="https://img.icons8.com/?size=100&id=90519&format=png&color=000000">
+    <img src="https://img.icons8.com/?size=100&id=90519&format=png&color=000000" width="50" height="50"/>
+  </a>
+  <a href="https://img.icons8.com/?size=100&id=13441&format=png&color=000000">
+    <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" width="50" height="50"/>
+  </a>
   <a href="https://img.icons8.com/?size=100&id=71257&format=png&color=000000">
     <img src="https://img.icons8.com/?size=100&id=71257&format=png&color=000000" width="50" height="50"/>
   </a>
   <a href="https://img.icons8.com/?size=100&id=wPohyHO_qO1a&format=png&color=000000">
     <img src="https://img.icons8.com/?size=100&id=wPohyHO_qO1a&format=png&color=000000" width="50" height="50"/>
   </a>
-  <a href="https://img.icons8.com/?size=100&id=13441&format=png&color=000000">
-    <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" width="50" height="50"/>
-  </a>
+  
   <a href="https://img.icons8.com/?size=100&id=rY6agKizO9eb&format=png&color=000000">
     <img src="https://img.icons8.com/?size=100&id=rY6agKizO9eb&format=png&color=000000" width="50" height="50"/>
   </a>
