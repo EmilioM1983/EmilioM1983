@@ -15,6 +15,9 @@ Soy un apasionado del desarrollo de software con experiencia en tecnologías bac
   <a href="https://img.icons8.com/?size=100&id=9nLaR5KFGjN0&format=png&color=000000">
     <img src="https://img.icons8.com/?size=100&id=9nLaR5KFGjN0&format=png&color=000000" width="50" height="50"/>
   </a>
+  <a href="https://img.icons8.com/?size=64&id=38561&format=png" target="_blank">
+  <img src="https://img.icons8.com/?size=64&id=38561&format=png" width="50" height="50" alt="PostgreSQL Icon"/>
+</a>
   <a href="https://img.icons8.com/?size=100&id=90519&format=png&color=000000">
     <img src="https://img.icons8.com/?size=100&id=90519&format=png&color=000000" width="50" height="50"/>
   </a>
@@ -27,10 +30,13 @@ Soy un apasionado del desarrollo de software con experiencia en tecnologías bac
   <a href="https://img.icons8.com/?size=100&id=wPohyHO_qO1a&format=png&color=000000">
     <img src="https://img.icons8.com/?size=100&id=wPohyHO_qO1a&format=png&color=000000" width="50" height="50"/>
   </a>
+ 
+
+
   
-  <a href="https://img.icons8.com/?size=100&id=rY6agKizO9eb&format=png&color=000000">
+  <!--<a href="https://img.icons8.com/?size=100&id=rY6agKizO9eb&format=png&color=000000">
     <img src="https://img.icons8.com/?size=100&id=rY6agKizO9eb&format=png&color=000000" width="50" height="50"/>
-  </a>
+  </a>-->
 </p>
 
 ---
@@ -38,7 +44,7 @@ Soy un apasionado del desarrollo de software con experiencia en tecnologías bac
 ### 📌 Sobre mí
 
 - 💻 Trabajo con Java, Spring Boot, Hibernate y bases de datos SQL.
-- 🖥️ Desarrollo frontend con Angular, React y Vue.
+- 🖥️ Desarrollo frontend con Angular, React.
 - 📚 Siempre aprendiendo nuevas tecnologías y metodologías.
 - 🔍 Me interesa la arquitectura de software y las buenas prácticas en desarrollo.
 
@@ -46,11 +52,13 @@ Soy un apasionado del desarrollo de software con experiencia en tecnologías bac
 
 ### 🌱 Proyectos Destacados
 
-🔹 **Sistema de Asistencia de Alumnos**: Aplicación con Java, JPA y MySQL para gestionar la asistencia en institutos terciarios.
+🔹 **Sistema de Asistencia de Alumnos**: Aplicación con Java, JPA, java swing y MySQL para gestionar la asistencia en institutos terciarios.
 
-🔹 **Agenda Electrónica**: Software de gestión de citas médicas utilizando Java y Swing.
+🔹 **Chatbots inteligentes**: Agentes locales de IA en python con modelos como mistral, llama y deepskeek.
 
-🔹 **Sistema de Punto de ventas**: Aplicación para gestionar ventas de productos en una interfaz amigable.
+🔹 **Proyecto academico app deliverys**: Lider y coordinador técnico de equipos bajo el marco de trabajo gitfloww de una aplicación de dlivery(simulación) java usando patrón DAO.
+
+🔹 **Sistema de Punto de ventas**: Aplicación para gestionar ventas de productos en una interfaz amigable, Java, java swing, JDBC y mysql.
 
 Puedes ver más en mi [https://github.com/EmilioM1983?tab=repositories](https://github.com/EmilioM1983?tab=repositories).
 
